@@ -57,7 +57,7 @@ h1{
 .output-div {
 	display: flex;
 	justify-content: center;
-	width: 100%;
+	width: 99%;
     height: 17.6vh;
     border-radius: 1rem;
     padding: 2px;
